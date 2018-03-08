@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="application/ecmascript" contentStyleType="text/css" height="628px" preserveAspectRatio="none" style="width:560px;height:628px;" version="1.1" viewBox="0 0 560 628" width="560px" zoomAndPan="magnify"><defs><filter height="300%" id="fcp7xt1ezcve" width="300%" x="-1" y="-1"><feGaussianBlur result="blurOut" stdDeviation="2.0"/><feColorMatrix in="blurOut" result="blurOut2" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .4 0"/><feOffset dx="4.0" dy="4.0" in="blurOut2" result="blurOut3"/><feBlend in="SourceGraphic" in2="blurOut3" mode="normal"/></filter></defs><g><!--cluster 1.采购-申请借款--><rect fill="#FFFFFF" filter="url(#fcp7xt1ezcve)" height="183" style="stroke: #000000; stroke-width: 2.0;" width="196" x="158" y="298"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="107" x="202.5" y="316.0439">1.采购-申请借款</text><!--cluster 2.批准放款--><rect fill="#FFFFFF" filter="url(#fcp7xt1ezcve)" height="250" style="stroke: #000000; stroke-width: 2.0;" width="240" x="136" y="24"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="72" x="220" y="42.0439">2.批准放款</text><!--cluster 3.还款--><rect fill="#FFFFFF" filter="url(#fcp7xt1ezcve)" height="112" style="stroke: #000000; stroke-width: 2.0;" width="188" x="162" y="505"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacingAndGlyphs" textLength="42" x="235" y="523.0439">3.还款</text><ellipse cx="256.0814" cy="354.8163" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="82.0814" ry="18.8163" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="126" x="193.0814" y="360.8763">支付订单15%首付款</text><ellipse cx="256.2304" cy="436.868" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="66.7304" ry="27.868" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="98" x="207.2304" y="436.5872">按订单金额85%</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="228.2304" y="455.7073">申请借款</text><ellipse cx="256.098" cy="79.02" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="42.598" ry="16.52" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="228.098" y="85.08">贷款批准</text><ellipse cx="256.098" cy="241.02" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="42.598" ry="16.52" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="56" x="228.098" y="247.08">收货确认</text><ellipse cx="256.1159" cy="160.1263" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="104.1159" ry="29.1263" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="126" x="193.1159" y="155.3108">按订单金额85%放款</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="148" x="182.1159" y="174.431">+扣除全部利息的首付款</text><ellipse cx="255.9901" cy="572.1039" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="77.9901" ry="28.6039" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="112" x="199.9901" y="570.6952">分期等额还本金、</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="84" x="213.9901" y="589.8153">（若有）罚息</text><!--entity Buyer--><ellipse cx="36.5" cy="341" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M36.5,349 L36.5,376 M23.5,357 L49.5,357 M36.5,376 L23.5,391 M36.5,376 L49.5,391 " fill="#FEFECE" filter="url(#fcp7xt1ezcve)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="6" y="414.0439">商户-买方</text><!--entity Saler--><ellipse cx="36.5" cy="115" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M36.5,123 L36.5,150 M23.5,131 L49.5,131 M36.5,150 L23.5,165 M36.5,150 L49.5,165 " fill="#FEFECE" filter="url(#fcp7xt1ezcve)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="61" x="6" y="188.0439">平台-卖方</text><!--entity Capital--><ellipse cx="496.5" cy="267" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="8" ry="8" style="stroke: #A80036; stroke-width: 2.0;"/><path d="M496.5,275 L496.5,302 M483.5,283 L509.5,283 M496.5,302 L483.5,317 M496.5,302 L509.5,317 " fill="#FEFECE" filter="url(#fcp7xt1ezcve)" style="stroke: #A80036; stroke-width: 2.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="103" x="445" y="340.0439">金融机构-资金方</text><ellipse cx="36.299" cy="261.02" fill="#FEFECE" filter="url(#fcp7xt1ezcve)" rx="22.799" ry="16.52" style="stroke: #A80036; stroke-width: 1.5;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacingAndGlyphs" textLength="28" x="22.299" y="267.08">发货</text><!--link Buyer to UC1_pay--><path d="M67.2864,371.398 C94.6771,369.005 136.568,365.346 173.832,362.091 " fill="none" id="Buyer-UC1_pay" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="178.822,361.655,169.5076,358.4547,173.841,362.0908,170.2049,366.4242,178.822,361.655" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="101.5" y="363.8979">s1</text><!--link Buyer to UC2_borrow--><path d="M67.0051,384.935 C76.5259,388.323 87.1614,391.961 97,395 C128.404,404.699 163.727,414.217 192.997,421.734 " fill="none" id="Buyer-UC2_borrow" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="198.014,423.018,190.2853,416.9133,193.1698,421.7795,188.3037,424.664,198.014,423.018" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="101.5" y="391.8979">s2</text><!--link UC1_pay to Capital--><path d="M315.552,341.773 C345.34,335.015 382.113,326.628 415,319 C422.993,317.146 431.428,315.173 439.711,313.227 " fill="none" id="UC1_pay-Capital" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="444.842,312.02,435.1649,310.1886,439.975,313.1657,436.998,317.9758,444.842,312.02" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="396.5" y="315.8979">s3</text><!--link UC2_borrow to Capital--><path d="M312.272,422.055 C335.254,414.677 361.711,404.62 384,392 C406.029,379.527 428.009,362.6 446.559,346.665 " fill="none" id="UC2_borrow-Capital" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="450.707,343.069,441.2864,345.9417,446.9289,346.3441,446.5265,351.9866,450.707,343.069" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="396.5" y="368.8979">s4</text><!--link Capital to UC3_approve--><path d="M480.73,256.62 C463.933,213.801 432.392,149.587 384,113 C360.701,95.385 328.96,86.884 303.04,82.788 " fill="none" id="Capital-UC3_approve" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="297.938,82.026,306.2485,87.3114,302.8832,82.7645,307.4301,79.3992,297.938,82.026" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="396.5" y="117.8979">s5</text><!--link UC3_approve to Saler--><path d="M219.39,87.445 C193.765,93.785 158.488,103.055 128,113 C109.422,119.06 89.0988,126.814 72.4263,133.483 " fill="none" id="UC3_approve-Saler" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="67.3752,135.515,77.2177,135.8681,72.0141,133.6494,74.2328,128.4458,67.3752,135.515" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="101.5" y="113.8979">s6</text><!--link Saler to UC6_Sale--><path d="M36.5,191.113 C36.5,207.519 36.5,225.521 36.5,239.146 " fill="none" id="Saler-UC6_Sale" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="36.5,244.326,40.5,235.326,36.5,239.326,32.5,235.326,36.5,244.326" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="17" y="224.1479">s7</text><!--link UC6_Sale to Buyer--><path d="M36.5,277.707 C36.5,290.407 36.5,308.557 36.5,325.683 " fill="none" id="UC6_Sale-Buyer" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="36.5,330.957,40.5,321.957,36.5,325.957,32.5,321.957,36.5,330.957" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="17" y="310.6479">s8</text><!--link Buyer to UC4_cofirm--><path d="M67.2864,355.786 C109.83,329.77 187.356,282.364 228.193,257.392 " fill="none" id="Buyer-UC4_cofirm" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="232.507,254.754,222.742,256.0368,228.2414,257.3625,226.9157,262.8618,232.507,254.754" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="14" x="101.5" y="323.8979">s9</text><!--link UC4_cofirm to Capital--><path d="M292.191,249.706 C331.073,259.324 394.211,274.943 439.82,286.226 " fill="none" id="UC4_cofirm-Capital" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="444.733,287.441,436.958,281.3954,439.8795,286.2394,435.0355,289.1609,444.733,287.441" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="393" y="272.8979">s10</text><!--link Capital to UC5_lend--><path d="M450.949,256.84 C431.521,239.67 407.778,220.767 384,207 C368.006,197.74 349.86,189.735 332.391,183.088 " fill="none" id="Capital-UC5_lend" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="327.484,181.249,334.5088,188.1521,332.1662,183.0031,337.3153,180.6605,327.484,181.249" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="393" y="210.8979">s11</text><!--link UC5_lend to Saler--><path d="M153.834,154.418 C124.616,152.806 94.6641,151.154 72.4702,149.929 " fill="none" id="UC5_lend-Saler" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="67.2864,149.643,76.0523,154.1328,72.2788,149.9185,76.4931,146.1449,67.2864,149.643" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="98" y="148.8979">s12</text><!--link Buyer to UC7_Return--><path d="M67.1859,413.689 C83.9022,434.797 105.8281,460.541 128,481 C153.722,504.735 185.78,527.663 211.251,544.5667 " fill="none" id="Buyer-UC7_Return" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="215.603,547.4389,210.2949,539.1429,211.43,544.6847,205.8881,545.8197,215.603,547.4389" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="98" y="446.8979">s13</text><!--link UC7_Return to Capital--><path d="M298.852,547.9916 C325.324,531.444 359.116,507.679 384,481 C421.374,440.929 452.899,386.46 472.79,347.77 " fill="none" id="UC7_Return-Capital" style="stroke: #A80036; stroke-width: 1.0;"/><polygon fill="#A80036" points="475.158,343.132,467.502,349.3277,472.8837,347.5848,474.6266,352.9665,475.158,343.132" style="stroke: #A80036; stroke-width: 1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacingAndGlyphs" textLength="21" x="393" y="441.8979">s14</text><!--
+@startuml
+
+left to right direction
+skinparam packageStyle rectangle
+
+
+actor :商户-买方: as Buyer
+actor :平台-卖方: as Saler
+actor :金融机构-资金方: as Capital
+
+
+
+rectangle 1.采购-申请借款 {
+usecase (支付订单15%首付款) as UC1_pay
+usecase (按订单金额85%\n申请借款) as UC2_borrow
+
+}
+
+rectangle 2.批准放款 {
+usecase (贷款批准) as UC3_approve
+usecase (收货确认) as UC4_cofirm
+usecase (按订单金额85%放款\n+扣除全部利息的首付款) as UC5_lend
+}
+
+usecase (发货) as UC6_Sale
+
+
+rectangle 3.还款 {
+usecase (分期等额还本金、\n（若有）罚息) as UC7_Return
+}
+
+
+
+
+Buyer - -> (UC1_pay) : s1
+Buyer - -> (UC2_borrow) : s2
+(UC1_pay) - ->  Capital: s3
+(UC2_borrow) - -> Capital  : s4
+Capital	 - -> (UC3_approve) : s5
+(UC3_approve) - -> Saler : s6
+
+Saler -> (UC6_Sale): s7
+(UC6_Sale) -> Buyer: s8
+
+Buyer - -> (UC4_cofirm): s9
+(UC4_cofirm) - -> Capital: s10
+
+Capital	 - -> (UC5_lend) : s11
+(UC5_lend) - -> Saler: s12
+
+
+
+
+
+Buyer - -> (UC7_Return) : s13
+(UC7_Return)  - ->  Capital: s14
+
+
+
+
+
+@enduml
+
+PlantUML version 1.2017.15(Tue Jul 04 00:45:34 CST 2017)
+(EPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Java Version: 1.8.0_144-b01
+Operating System: Windows 10
+OS Version: 10.0
+Default Encoding: GBK
+Language: zh
+Country: CN
+--></g></svg>
